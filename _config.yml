@@ -1,0 +1,28 @@
+name: xc
+favicon: null
+layout_spectrum: 0.7817356779705733
+typography_spectrum: 0.5805686034727842
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9079116831999272
+  lightness: 0.18110315082594752
+  saturation: 0.33463855646550655
+  rhythmicContrast: 0.657585809705779
+purpose: []
