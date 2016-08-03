@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[XENNEN CONSULTING]]></title>
         <description><![CDATA[XENNEN CONSULTING]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 13:25:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 16:29:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hej och välkommen till XC EquiMassage</p>]]></description>
-            <link>undefinedbf575571-0c14-4e1b-845e-6ef7d19e69ec/index.html</link>
+            <description><![CDATA[<p>är ett litet konsultbolag som älskar ny teknik...</p>]]></description>
+            <link>https://thegrid.ai/xc/bf575571-0c14-4e1b-845e-6ef7d19e69ec/index.html</link>
             <guid isPermaLink="false">bf575571-0c14-4e1b-845e-6ef7d19e69ec</guid>
-            <pubDate>Sat, 06 Feb 2016 13:25:30 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 16:29:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
